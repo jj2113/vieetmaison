@@ -533,6 +533,7 @@ header .inner .pc ul.gnb li {
 }
 
 .insta .inner .insta_slide_list div p {
+    height: 70px;
     font-size: 16px;
     margin: 10px 0;
     line-height: 1.5;
